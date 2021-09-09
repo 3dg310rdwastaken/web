@@ -2,10 +2,12 @@ body
 {
 	color: #DDE8DD;
 	background-color: #0A0A0A;
+	font-family: sans-serif;
 }
 h1
 {
 	color: maroon;
+	font-size: 2.5em;
 }
 h2
 {
@@ -14,8 +16,13 @@ h2
 h5
 {
 	color: maroon;
+	font-weight: light;
 }
 a
 {
 	color: maroon;
+}
+p
+{
+	
 }
