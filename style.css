@@ -29,3 +29,18 @@ p
 {
 	
 }
+nav
+{
+	background-color: #0E0E0E;
+	line-height: 2em;
+}
+nav li
+{
+	display: inline;
+	padding-right: 40px;
+	list-style-type: none;
+}
+nav a
+{
+	text-decoration: none;
+}
