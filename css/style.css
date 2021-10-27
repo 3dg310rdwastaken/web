@@ -25,10 +25,6 @@ a
 {
 	color: maroon;
 }
-p
-{
-	
-}
 nav
 {
 	background-color: #0E0E0E;
@@ -43,4 +39,12 @@ nav li
 nav a
 {
 	text-decoration: none;
+}
+.floaty
+{
+	float: left;
+	clear: left;
+	margin: 20 px;
+	padding: 20 px;
+	border-style: solid;
 }
